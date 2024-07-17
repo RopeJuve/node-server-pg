@@ -1,5 +1,5 @@
 {
-  "name": "node-server-with-pg",
+  "name": "node-server-pg",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
